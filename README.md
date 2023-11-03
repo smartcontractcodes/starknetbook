@@ -4,7 +4,7 @@ This repository contains the source for [The Starknet Book](book.starknet.io).
 
 ## Contribution
 
-Every contribution, regardless of its size, plays a pivotal role in refining this work. Together, we advance the Starknet narrative.
+Every contribution, no matter the size, plays a crucial role in refining this work. Together, we advance the Starknet narrative.
 
 - **General Guidelines**:
   - Focus on enhancements directly related to the book's content.
@@ -30,12 +30,12 @@ cargo install mdbook --version 0.4.31 && cargo install mdbook-i18n-helpers --ver
 
 - Clone the main repository: `git clone https://github.com/starknet-edu/starknetbook && cd starknetbook`.
 - Create and work on a branch in your fork. If you're unfamiliar, use this [guide](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) for assistance.
-- Once done, submit a PR to merge your edits. Ensure you tag a reviewer for feedback (`l-henri` or `@omarespejel`).
+- Upon completion, submit a PR to merge your edits. Ensure you tag a reviewer for feedback (`l-henri` or `@omarespejel`).
 
 4. **Formatting**
 
-- Run `npm i`
-- Then after completing your documentation run `npm run format`
+- Execute npm install to set up the necessary tools.
+- After completing your documentation, run npm run format to standardize the formatting.
 
 ### Understanding the Book's Structure
 
